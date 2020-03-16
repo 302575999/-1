@@ -1,0 +1,7 @@
+D:\zw的编程\2_8计算器\2_8计算器\bin\Debug\2_8计算器.exe.config
+D:\zw的编程\2_8计算器\2_8计算器\bin\Debug\2_8计算器.exe
+D:\zw的编程\2_8计算器\2_8计算器\bin\Debug\2_8计算器.pdb
+D:\zw的编程\2_8计算器\2_8计算器\obj\Debug\2_8计算器.csprojAssemblyReference.cache
+D:\zw的编程\2_8计算器\2_8计算器\obj\Debug\2_8计算器.csproj.CoreCompileInputs.cache
+D:\zw的编程\2_8计算器\2_8计算器\obj\Debug\2_8计算器.exe
+D:\zw的编程\2_8计算器\2_8计算器\obj\Debug\2_8计算器.pdb
